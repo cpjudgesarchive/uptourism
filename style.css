@@ -6,3 +6,9 @@
     display:grid;
     place-items:center;
 }
+#b,#e{
+    fill:#2e16e6 
+}
+#r,#i,#d,#g{
+    fill:#FB6D10
+}
